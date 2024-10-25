@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>c26af19c8321121014525930ceaad39e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_pointsthing_chat">
+    <x_snc_pointsthing_chat action="INSERT_OR_UPDATE">
+        <channel>Slack</channel>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-25 17:47:54</sys_created_on>
+        <sys_id>c26af19c8321121014525930ceaad39e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-25 17:47:54</sys_updated_on>
+        <text>"Hey team! Just a quick reminder to submit your project updates by the end of the day. Let’s keep the momentum going!"</text>
+        <thread_ts>2024-10-26 10:46:25</thread_ts>
+        <ts>2024-10-26 17:46:25</ts>
+        <user/>
+    </x_snc_pointsthing_chat>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-25 17:48:54</sys_created_on>
+        <sys_id>840bb1d88321121014525930ceaad364</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2024-10-25 10:47:54</sys_name>
+        <sys_package display_value="Points Thing" source="x_snc_pointsthing">9c7718cddb229150791d8f8d13961979</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Points Thing">9c7718cddb229150791d8f8d13961979</sys_scope>
+        <sys_update_name>sys_metadata_link_840bb1d88321121014525930ceaad364</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-25 17:48:54</sys_updated_on>
+        <tablename>x_snc_pointsthing_chat</tablename>
+    </sys_metadata_link>
+</record_update>
